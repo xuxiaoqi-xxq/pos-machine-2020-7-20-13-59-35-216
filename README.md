@@ -67,6 +67,10 @@ Suppose that our database is as follows:
 # Principal
 
 1. Please draw context diagram.
+
+result 
+
+![image](https://github.com/xuxiaoqi-xxq/pos-machine-2020-7-20-13-59-35-216/blob/master/context%20map%20of%20pos%20machine.png)
 2. Please declare all the methods according to your diagram.
 3. Please implement the function according to the context diagram
 4. Please repeat step 3 until all functions are implemented.
